@@ -44,7 +44,7 @@
 					~
 					<input type="number" name="toMinute">
 				</td>
-			
+			</tr>
 			<tr>
 				<td>등급</td>
 				<td>
@@ -55,7 +55,7 @@
 					<input type="checkbox" name="rating" value="NC-17">NC-17
 				</td>
 			</tr>
-			</tr>
+			
 			<tr>
 				<td>영화 제목 검색</td>
 				<td>
